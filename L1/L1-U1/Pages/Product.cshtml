@@ -1,0 +1,18 @@
+﻿@page "{handler?}"
+@model L1_U3.Pages.ProductModel
+<form method="post">
+    <label for="name">Название товара</label><br />
+    <input type="text" name="name" /><br />
+    <label for="price">Цена</label><br />
+    <input type="number" name="price" /><br /><br />
+    <label for="amount">Количество</label><br />
+    <input type="number" name="amount" /><br /><br />
+    <input type="submit" asp-page-handler="Opt" value="Скидка с учетом количества" /><br />
+    <!-- <label for="discont">Введите свою скидку(%)</label><br />
+    <input type="number" name="discont" /><br />
+    <input type="submit" asp-page-handler="Discont" value="С учетом своей скидки" /><br /> -->
+</form>
+<h3>@Model.MessageRezult</h3>
+@{
+    //Layout = "_Layout";
+}
