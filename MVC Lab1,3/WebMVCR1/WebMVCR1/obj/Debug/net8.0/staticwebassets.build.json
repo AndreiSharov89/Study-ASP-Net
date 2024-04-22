@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "cJDwyE5O/4Dh1RKKgqFobKb/AQV7P7pgzdjQLx8e5RQ=",
+  "Source": "WebMVCR1",
+  "BasePath": "_content/WebMVCR1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebMVCR1\\wwwroot",
+      "Source": "WebMVCR1",
+      "ContentRoot": "C:\\Users\\sharo\\Desktop\\asp.net core\\ДЗ\\MVC Lab1,3\\WebMVCR1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sharo\\Desktop\\asp.net core\\ДЗ\\MVC Lab1,3\\WebMVCR1\\WebMVCR1\\wwwroot\\css\\Site.css",
+      "SourceId": "WebMVCR1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sharo\\Desktop\\asp.net core\\ДЗ\\MVC Lab1,3\\WebMVCR1\\WebMVCR1\\wwwroot\\",
+      "BasePath": "_content/WebMVCR1",
+      "RelativePath": "css/Site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Site.css"
+    }
+  ]
+}

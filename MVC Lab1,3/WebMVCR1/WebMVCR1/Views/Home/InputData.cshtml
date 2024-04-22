@@ -1,0 +1,57 @@
+﻿@model WebMVCR1.Models.Person
+
+@{
+    //ViewData["Title"] = "InputData";
+    //Layout = "~/Views/_BasicLayout.cshtml";
+    ViewBag.Title = "Ввод данных";
+    <h1>InputData</h1>
+
+    <h4>Person</h4>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <table>
+                <tr>
+                    <td><p>Введите имя:</p></td>
+                    <td>@Html.TextBox("FirstName")</td>
+                </tr>
+                <tr>
+                    <td><p>Введите фамилию:</p></td>
+                    <td>@Html.TextBoxFor(x => x.LastName)</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" value="Отправить" />
+                    </td>
+                    <td></td>
+                </tr>
+            </table>
+        }
+    </div>
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+}
+
+
+@*     <form method="post">
+        <table>
+            <tr>
+                <td><p>Введите имя:</p></td>
+                <td><input type="text" name="FirstName" /> </td>
+            </tr>
+            <tr>
+                <td><p>Введите фамилию:</p></td>
+                <td><input type="text" name="LastName" /> </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="Отправить" />
+                </td>
+                <td></td>
+            </tr>
+        </table>
+    </form> *@
+
+
