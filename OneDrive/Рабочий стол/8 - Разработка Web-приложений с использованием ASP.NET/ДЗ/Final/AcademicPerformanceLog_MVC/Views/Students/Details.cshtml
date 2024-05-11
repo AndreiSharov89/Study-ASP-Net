@@ -1,0 +1,38 @@
+﻿@model AcademicPerformanceLog_MVC.Models.Student
+
+@{
+    ViewData["Title"] = "Дневник студента";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-bottom:15px; padding-top:15px">Дневник студента: @Html.DisplayFor(model => model.Lastname)  @Html.DisplayFor(model => model.Firstname)</h1>
+
+<table style="width:45%; padding-bottom:15px; padding-top:15px">
+    <thead>
+        <th style="width:80%">Предмет</th>
+        <th style="width:20%">Оценка</th>
+    </thead>
+
+    <tbody>
+        @{foreach (var item in ViewBag.Disciplines)
+            {
+                <tr>
+                    <td>@item</td>
+                    @{
+                        foreach (var mark in ViewBag.Performances)
+                        {
+                            if (mark.DisciplineID == item.ID)
+                            { 
+                                <td>@mark.Mark</td>
+                            }
+                        }
+                    }
+                </tr>}
+        }
+    </tbody>
+
+</table>
+
+<div style="padding-top:15px">
+    <a asp-action="Index">Назад</a>
+</div>

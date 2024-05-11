@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="padding:20px">Система учета успеваемости студентов</h1>
+</div>
+
+<p>
+    <a asp-controller="Performances" asp-action="Index" asp->Открыть журнал успеваемости &raquo;</a>
+</p>
+<p>
+    <a asp-controller="Disciplines" asp-action="Index" asp->Открыть список предметов &raquo;</a>
+</p>
+<p>
+    <a asp-controller="Students" asp-action="Index" asp->Открыть список студентов группы &raquo;</a>
+</p>
+<p>
+    <a asp-controller="Students" asp-action="GoodStudents" asp->5 лучших студентов &raquo;</a>
+</p>
+<p>
+    <a asp-controller="Students" asp-action="BadStudents" asp->5 худших студентов студентов &raquo;</a>
+</p>
+

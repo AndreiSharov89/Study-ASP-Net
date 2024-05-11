@@ -1,0 +1,42 @@
+﻿@model AcademicPerformanceLog_MVC.Models.Discipline
+
+@{
+    ViewData["Title"] = "Оценки по предмету";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-bottom:15px; padding-top:15px">@Html.DisplayFor(model => model.Name)</h1>
+
+<table class="table" style='table-layout:fixed;width:50%'>
+    <thead>
+        <tr>
+            <th>Студент</th>
+            <th>Оценка</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var student in ViewBag.Students)
+            {
+                <tr>
+                    <td>@student</td>
+                    @{
+                        foreach (var item in ViewBag.Performance)
+                        {
+                            if (student.ID == item.StudentID)
+                            {
+                                <td>
+                                    @item.Mark  
+                                </td>
+                            }
+                        }
+                    }
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
