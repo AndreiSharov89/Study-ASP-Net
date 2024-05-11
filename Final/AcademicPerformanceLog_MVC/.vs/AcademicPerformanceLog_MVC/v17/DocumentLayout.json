@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\students\\badstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\students\\badstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\students\\goodstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\students\\goodstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\performances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\performances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PerformanceLog/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\disciplines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\disciplines\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\migrations\\performancelogcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:migrations\\performancelogcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\academicperformancelog_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:academicperformancelog_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|c:\\users\\sharo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C asp.net\\\u0434\u0437\\academicperformancelog_mvc\\data\\migrations\\20240507192250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:data\\migrations\\20240507192250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BadStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\BadStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\BadStudents.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\BadStudents.cshtml",
+              "RelativeToolTip": "Views\\Students\\BadStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:54:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoodStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\GoodStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\GoodStudents.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\GoodStudents.cshtml",
+              "RelativeToolTip": "Views\\Students\\GoodStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:47:43.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T00:32:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Performances\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Performances\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Performances\\Index.cshtml",
+              "RelativeToolTip": "Views\\Performances\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T23:32:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:07:55.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAswM4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:07:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerformancesController.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\PerformancesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerformancesController.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\PerformancesController.cs",
+              "RelativeToolTip": "Controllers\\PerformancesController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:46:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:45:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Disciplines\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Disciplines\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Disciplines\\Index.cshtml",
+              "RelativeToolTip": "Views\\Disciplines\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T19:25:33.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisciplinesController.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\DisciplinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DisciplinesController.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Controllers\\DisciplinesController.cs",
+              "RelativeToolTip": "Controllers\\DisciplinesController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:07:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwEYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:21:48.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:07:07.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:46:05.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:39:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Students [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PerformanceLog/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-10T00:00:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:24:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240507192250_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Data\\Migrations\\20240507192250_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240507192250_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Data\\Migrations\\20240507192250_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240507192250_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:22:50.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T18:45:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwDAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T19:39:36.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PerformanceLogContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Migrations\\PerformanceLogContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PerformanceLogContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\Migrations\\PerformanceLogContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PerformanceLogContextModelSnapshot.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:24:31.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AcademicPerformanceLog_MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\AcademicPerformanceLog_MVC.csproj",
+              "RelativeDocumentMoniker": "AcademicPerformanceLog_MVC.csproj",
+              "ToolTip": "C:\\Users\\sharo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8 - \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Web-\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C ASP.NET\\\u0414\u0417\\AcademicPerformanceLog_MVC\\AcademicPerformanceLog_MVC.csproj",
+              "RelativeToolTip": "AcademicPerformanceLog_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T18:46:27.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

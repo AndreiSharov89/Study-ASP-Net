@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AcademicPerformanceLog_MVC.Models.Student>
+@{
+    ViewData["Title"] = "5 лучших студентов";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-bottom:15px; padding-top:15px">5 лучших студентов: группа №124</h1>
+
+
+@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+<table class="table table-hover table-responsive table-striped" id="tblExporttoExcel" style='table-layout:fixed;width:100%; padding-bottom:15px'>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lastname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

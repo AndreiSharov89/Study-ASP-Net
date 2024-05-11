@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AcademicPerformanceLog_MVC.props" />
+</Project>
